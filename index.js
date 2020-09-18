@@ -222,4 +222,4 @@ client.on("ready", () => {
     });
 })
 
-client.login('NjUyNzY4MDA1MjEzOTEzMDg4.XetPlA.KKEUSqVYhNRexIst6yG3PTnUGWw');
+client.login('NjUyNzY4MDA1MjEzOTEzMDg4.XetPlA.X6cUn2X_5wAxSAPUmWPi2XWf688');
