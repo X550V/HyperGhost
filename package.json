@@ -1,0 +1,35 @@
+{
+  "name": "hypergamesfamily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "0.0.9",
+    "axios": "^0.20.0",
+    "canvas-senpai": "^0.1.6",
+    "common-tags": "^1.8.0",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.6.0",
+    "ffmpeg": "0.0.4",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "novelcovid": "^3.0.0",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "utils": "^0.3.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.2.1"
+  }
+}
