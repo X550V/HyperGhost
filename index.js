@@ -222,4 +222,4 @@ client.on("ready", () => {
     });
 })
 
-client.login(process.env.token);
+client.login('NjUyNzY4MDA1MjEzOTEzMDg4.XetPlA.KKEUSqVYhNRexIst6yG3PTnUGWw');
