@@ -1,5 +1,3 @@
-const { MessageEmbed } = require('discord.js');
-
 module.exports = {
     name: "say",
     aliases: ["bc", "broadcast"],
@@ -12,11 +10,7 @@ module.exports = {
         let msg;
 
         msg = args.join(" "); {
-            const embed = new MessageEmbed()
-                .setTitle(msg)
-                .setFooter(`Published By ${message.author.tag}`)
-                .setColor("BLACK");
-            message.channel.send(embed);
+            message.channel.send(msg);
         }
     }
 }
